@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "psycho-somatic.com",
     "description": "",
-    "home_page_url": "https://www.psycho-somatic.com",
-    "feed_url": "https://www.psycho-somatic.com/feed.json",
+    "home_page_url": "https://psycho-somatic.com",
+    "feed_url": "https://psycho-somatic.com/feed.json",
     "user_comment": "",
-    "icon": "https://www.psycho-somatic.com/media/website/psycho-somatic-logo.webp",
+    "icon": "https://psycho-somatic.com/media/website/psycho-somatic-logo.webp",
     "author": {
         "name": "Fabien Beller"
     },
